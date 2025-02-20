@@ -1,1 +1,1 @@
-# TeckMart-database
+This project is SQL 
